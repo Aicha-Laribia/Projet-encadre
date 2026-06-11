@@ -23,4 +23,5 @@ dependencies = [
     "sqlalchemy>=2.0.48",
     "dependencies>=7.7.1",
     "imblearn>=0.0",
+    "lightgbm>=4.6.0",
 ]
